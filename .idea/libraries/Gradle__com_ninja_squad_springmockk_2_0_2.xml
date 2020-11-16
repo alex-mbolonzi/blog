@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ninja-squad:springmockk:2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ninja-squad/springmockk/2.0.2/48459c00024fa776e5d70310e1c0bf3f7f865c1f/springmockk-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ninja-squad/springmockk/2.0.2/aa68ad19bb83534886640a85865502df232f6297/springmockk-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
